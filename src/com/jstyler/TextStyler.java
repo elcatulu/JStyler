@@ -25,7 +25,7 @@ public class TextStyler {
 
     public static final String BOLD = "**";
     public static final String ITALIC = "*";
-    public static final String UNDERLINE = "<u>";
+    public static final String UNDERLINE = "++";
     public static final String STRIKETHROUGH = "~~";
     public static final String CODE = "`";
     public static final String HEADING_1 = "# ";
@@ -104,6 +104,6 @@ public class TextStyler {
     }
 
     public String applyUnderline(String text) {
-        return UNDERLINE + text + "</u>";
+        return UNDERLINE + text + "++";
     }
 }
