@@ -24,8 +24,8 @@ System.out.println(styled);
 
 The library also allows you to apply colors to your text. Here are some examples:
 
-- <span style='color:#2a2349'>Dark Blue</span>: `Dark Blue`
-- <span style='color:#10d275'>Bright Green</span>: `Bright Green`
-- <span style='color:#c16c5b'>Warm Red</span>: `Warm Red`
+- %%#2a2349%%Dark Blue%%: `Dark Blue`
+- %%#10d275%%Bright Green%%: `Bright Green`
+- %%#c16c5b%%Warm Red%%: `Warm Red`
 
 You can use predefined color names from the palette, making it easy to stylize text for enhanced readability.
